@@ -1,0 +1,1675 @@
+{
+  "totalItems": 278,
+  "totalPages": 1,
+  "currentPage": 1,
+  "items": [
+    {
+      "municipalityId": "140",
+      "provinceId": "48",
+      "nameEs": "Abadiño",
+      "nameEu": "Abadiño"
+    },
+    {
+      "municipalityId": "141",
+      "provinceId": "48",
+      "nameEs": "Abanto y Ciérvana-Abanto Zierbena",
+      "nameEu": "Abanto y Ciérvana-Abanto Zierbena"
+    },
+    {
+      "municipalityId": "53",
+      "provinceId": "20",
+      "nameEs": "Aduna",
+      "nameEu": "Aduna"
+    },
+    {
+      "municipalityId": "537",
+      "provinceId": "-3",
+      "nameEs": "Ahetze ",
+      "nameEu": "Ahetze "
+    },
+    {
+      "municipalityId": "54",
+      "provinceId": "20",
+      "nameEs": "Aia",
+      "nameEu": "Aia"
+    },
+    {
+      "municipalityId": "55",
+      "provinceId": "20",
+      "nameEs": "Aizarnazabal",
+      "nameEu": "Aizarnazabal"
+    },
+    {
+      "municipalityId": "56",
+      "provinceId": "20",
+      "nameEs": "Albiztur",
+      "nameEu": "Albiztur"
+    },
+    {
+      "municipalityId": "57",
+      "provinceId": "20",
+      "nameEs": "Alegia",
+      "nameEu": "Alegia"
+    },
+    {
+      "municipalityId": "1",
+      "provinceId": "1",
+      "nameEs": "Alegría-Dulantzi",
+      "nameEu": "Alegría-Dulantzi"
+    },
+    {
+      "municipalityId": "58",
+      "provinceId": "20",
+      "nameEs": "Alkiza",
+      "nameEu": "Alkiza"
+    },
+    {
+      "municipalityId": "263",
+      "provinceId": "31",
+      "nameEs": "Altsasu/Alsasua",
+      "nameEu": "Altsasu/Alsasua"
+    },
+    {
+      "municipalityId": "60",
+      "provinceId": "20",
+      "nameEs": "Altzo",
+      "nameEu": "Altzo"
+    },
+    {
+      "municipalityId": "61",
+      "provinceId": "20",
+      "nameEs": "Amezketa",
+      "nameEu": "Amezketa"
+    },
+    {
+      "municipalityId": "144",
+      "provinceId": "48",
+      "nameEs": "Amorebieta-Etxano",
+      "nameEu": "Amorebieta-Etxano"
+    },
+    {
+      "municipalityId": "2",
+      "provinceId": "1",
+      "nameEs": "Amurrio",
+      "nameEu": "Amurrio"
+    },
+    {
+      "municipalityId": "62",
+      "provinceId": "20",
+      "nameEs": "Andoain",
+      "nameEu": "Andoain"
+    },
+    {
+      "municipalityId": "552",
+      "provinceId": "-3",
+      "nameEs": "Anglet ",
+      "nameEu": "Angelu "
+    },
+    {
+      "municipalityId": "63",
+      "provinceId": "20",
+      "nameEs": "Anoeta",
+      "nameEu": "Anoeta"
+    },
+    {
+      "municipalityId": "267",
+      "provinceId": "31",
+      "nameEs": "Ansoáin/Antsoain",
+      "nameEu": "Ansoáin/Antsoain"
+    },
+    {
+      "municipalityId": "64",
+      "provinceId": "20",
+      "nameEs": "Antzuola",
+      "nameEu": "Antzuola"
+    },
+    {
+      "municipalityId": "270",
+      "provinceId": "31",
+      "nameEs": "Aoiz/Agoitz",
+      "nameEu": "Aoiz/Agoitz"
+    },
+    {
+      "municipalityId": "4",
+      "provinceId": "1",
+      "nameEs": "Aramaio",
+      "nameEu": "Aramaio"
+    },
+    {
+      "municipalityId": "274",
+      "provinceId": "31",
+      "nameEs": "Aranguren",
+      "nameEu": "Aranguren"
+    },
+    {
+      "municipalityId": "275",
+      "provinceId": "31",
+      "nameEs": "Arano",
+      "nameEu": "Arano"
+    },
+    {
+      "municipalityId": "276",
+      "provinceId": "31",
+      "nameEs": "Arantza",
+      "nameEu": "Arantza"
+    },
+    {
+      "municipalityId": "278",
+      "provinceId": "31",
+      "nameEs": "Arbizu",
+      "nameEu": "Arbizu"
+    },
+    {
+      "municipalityId": "555",
+      "provinceId": "-3",
+      "nameEs": "Arbonne ",
+      "nameEu": "Arbona "
+    },
+    {
+      "municipalityId": "66",
+      "provinceId": "20",
+      "nameEs": "Aretxabaleta",
+      "nameEu": "Aretxabaleta"
+    },
+    {
+      "municipalityId": "284",
+      "provinceId": "31",
+      "nameEs": "Aribe",
+      "nameEu": "Aribe"
+    },
+    {
+      "municipalityId": "6",
+      "provinceId": "1",
+      "nameEs": "Arraia-Maeztu",
+      "nameEu": "Arraia-Maeztu"
+    },
+    {
+      "municipalityId": "149",
+      "provinceId": "48",
+      "nameEs": "Arrankudiaga",
+      "nameEu": "Arrankudiaga"
+    },
+    {
+      "municipalityId": "67",
+      "provinceId": "20",
+      "nameEs": "Arrasate-Mondragon",
+      "nameEu": "Arrasate-Mondragon"
+    },
+    {
+      "municipalityId": "150",
+      "provinceId": "48",
+      "nameEs": "Arratzu",
+      "nameEu": "Arratzu"
+    },
+    {
+      "municipalityId": "7",
+      "provinceId": "1",
+      "nameEs": "Arrazua-Ubarrundia",
+      "nameEu": "Arrazua-Ubarrundia"
+    },
+    {
+      "municipalityId": "152",
+      "provinceId": "48",
+      "nameEs": "Arrigorriaga",
+      "nameEu": "Arrigorriaga"
+    },
+    {
+      "municipalityId": "288",
+      "provinceId": "31",
+      "nameEs": "Artajona",
+      "nameEu": "Artajona"
+    },
+    {
+      "municipalityId": "565",
+      "provinceId": "-3",
+      "nameEs": "Ascain ",
+      "nameEu": "Azkaine "
+    },
+    {
+      "municipalityId": "9",
+      "provinceId": "1",
+      "nameEs": "Asparrena",
+      "nameEu": "Asparrena"
+    },
+    {
+      "municipalityId": "68",
+      "provinceId": "20",
+      "nameEs": "Asteasu",
+      "nameEu": "Asteasu"
+    },
+    {
+      "municipalityId": "69",
+      "provinceId": "20",
+      "nameEs": "Astigarraga",
+      "nameEu": "Astigarraga"
+    },
+    {
+      "municipalityId": "70",
+      "provinceId": "20",
+      "nameEs": "Ataun",
+      "nameEu": "Ataun"
+    },
+    {
+      "municipalityId": "156",
+      "provinceId": "48",
+      "nameEs": "Aulesti",
+      "nameEu": "Aulesti"
+    },
+    {
+      "municipalityId": "549",
+      "provinceId": "-3",
+      "nameEs": "Aussurucq ",
+      "nameEu": "Altzürükü "
+    },
+    {
+      "municipalityId": "10",
+      "provinceId": "1",
+      "nameEs": "Ayala",
+      "nameEu": "Aiara"
+    },
+    {
+      "municipalityId": "539",
+      "provinceId": "-3",
+      "nameEs": "Ayherre ",
+      "nameEu": "Aiherra "
+    },
+    {
+      "municipalityId": "293",
+      "provinceId": "31",
+      "nameEs": "Azagra",
+      "nameEu": "Azagra"
+    },
+    {
+      "municipalityId": "71",
+      "provinceId": "20",
+      "nameEs": "Azkoitia",
+      "nameEu": "Azkoitia"
+    },
+    {
+      "municipalityId": "72",
+      "provinceId": "20",
+      "nameEs": "Azpeitia",
+      "nameEu": "Azpeitia"
+    },
+    {
+      "municipalityId": "544",
+      "provinceId": "-3",
+      "nameEs": "Aïcirits-Camou-Suhast ",
+      "nameEu": "Aiziritze-Gamue-Zohazti "
+    },
+    {
+      "municipalityId": "3",
+      "provinceId": "1",
+      "nameEs": "Añana",
+      "nameEu": "Añana"
+    },
+    {
+      "municipalityId": "295",
+      "provinceId": "31",
+      "nameEs": "Bakaiku",
+      "nameEu": "Bakaiku"
+    },
+    {
+      "municipalityId": "157",
+      "provinceId": "48",
+      "nameEs": "Bakio",
+      "nameEu": "Bakio"
+    },
+    {
+      "municipalityId": "158",
+      "provinceId": "48",
+      "nameEs": "Balmaseda",
+      "nameEu": "Balmaseda"
+    },
+    {
+      "municipalityId": "159",
+      "provinceId": "48",
+      "nameEs": "Barakaldo",
+      "nameEu": "Barakaldo"
+    },
+    {
+      "municipalityId": "296",
+      "provinceId": "31",
+      "nameEs": "Barañáin",
+      "nameEu": "Barañáin"
+    },
+    {
+      "municipalityId": "570",
+      "provinceId": "-3",
+      "nameEs": "Bardos ",
+      "nameEu": "Bardoze "
+    },
+    {
+      "municipalityId": "160",
+      "provinceId": "48",
+      "nameEs": "Barrika",
+      "nameEu": "Barrika"
+    },
+    {
+      "municipalityId": "12",
+      "provinceId": "1",
+      "nameEs": "Barrundia",
+      "nameEu": "Barrundia"
+    },
+    {
+      "municipalityId": "161",
+      "provinceId": "48",
+      "nameEs": "Basauri",
+      "nameEu": "Basauri"
+    },
+    {
+      "municipalityId": "568",
+      "provinceId": "-3",
+      "nameEs": "Bayonne ",
+      "nameEu": "Baiona "
+    },
+    {
+      "municipalityId": "302",
+      "provinceId": "31",
+      "nameEs": "Baztan",
+      "nameEu": "Baztan"
+    },
+    {
+      "municipalityId": "74",
+      "provinceId": "20",
+      "nameEs": "Beasain",
+      "nameEu": "Beasain"
+    },
+    {
+      "municipalityId": "306",
+      "provinceId": "31",
+      "nameEs": "Bera",
+      "nameEu": "Bera"
+    },
+    {
+      "municipalityId": "163",
+      "provinceId": "48",
+      "nameEs": "Berango",
+      "nameEu": "Berango"
+    },
+    {
+      "municipalityId": "13",
+      "provinceId": "1",
+      "nameEs": "Berantevilla",
+      "nameEu": "Berantevilla"
+    },
+    {
+      "municipalityId": "77",
+      "provinceId": "20",
+      "nameEs": "Berastegi",
+      "nameEu": "Berastegi"
+    },
+    {
+      "municipalityId": "78",
+      "provinceId": "20",
+      "nameEs": "Bergara",
+      "nameEu": "Bergara"
+    },
+    {
+      "municipalityId": "308",
+      "provinceId": "31",
+      "nameEs": "Beriáin",
+      "nameEu": "Beriáin"
+    },
+    {
+      "municipalityId": "164",
+      "provinceId": "48",
+      "nameEs": "Bermeo",
+      "nameEu": "Bermeo"
+    },
+    {
+      "municipalityId": "165",
+      "provinceId": "48",
+      "nameEs": "Berriatua",
+      "nameEu": "Berriatua"
+    },
+    {
+      "municipalityId": "309",
+      "provinceId": "31",
+      "nameEs": "Berrioplano",
+      "nameEu": "Berrioplano"
+    },
+    {
+      "municipalityId": "310",
+      "provinceId": "31",
+      "nameEs": "Berriozar",
+      "nameEu": "Berriozar"
+    },
+    {
+      "municipalityId": "166",
+      "provinceId": "48",
+      "nameEs": "Berriz",
+      "nameEu": "Berriz"
+    },
+    {
+      "municipalityId": "79",
+      "provinceId": "20",
+      "nameEs": "Berrobi",
+      "nameEu": "Berrobi"
+    },
+    {
+      "municipalityId": "312",
+      "provinceId": "31",
+      "nameEs": "Betelu",
+      "nameEu": "Betelu"
+    },
+    {
+      "municipalityId": "579",
+      "provinceId": "-3",
+      "nameEs": "Biarritz ",
+      "nameEu": "Biarritz "
+    },
+    {
+      "municipalityId": "581",
+      "provinceId": "-3",
+      "nameEs": "Bidart ",
+      "nameEu": "Bidarte "
+    },
+    {
+      "municipalityId": "313",
+      "provinceId": "31",
+      "nameEs": "Bidaurreta",
+      "nameEu": "Bidaurreta"
+    },
+    {
+      "municipalityId": "167",
+      "provinceId": "48",
+      "nameEs": "Bilbao",
+      "nameEu": "Bilbao"
+    },
+    {
+      "municipalityId": "586",
+      "provinceId": "-3",
+      "nameEs": "Boucau ",
+      "nameEu": "Bokale "
+    },
+    {
+      "municipalityId": "578",
+      "provinceId": "-3",
+      "nameEs": "Briscous ",
+      "nameEu": "Beskoitze "
+    },
+    {
+      "municipalityId": "317",
+      "provinceId": "31",
+      "nameEs": "Burlada/Burlata",
+      "nameEu": "Burlada/Burlata"
+    },
+    {
+      "municipalityId": "168",
+      "provinceId": "48",
+      "nameEs": "Busturia",
+      "nameEu": "Busturia"
+    },
+    {
+      "municipalityId": "635",
+      "provinceId": "-3",
+      "nameEs": "Cambo-les-Bains ",
+      "nameEu": "Kanbo "
+    },
+    {
+      "municipalityId": "15",
+      "provinceId": "1",
+      "nameEs": "Campezo",
+      "nameEu": "Kanpezu"
+    },
+    {
+      "municipalityId": "326",
+      "provinceId": "31",
+      "nameEs": "Castejón",
+      "nameEu": "Castejón"
+    },
+    {
+      "municipalityId": "688",
+      "provinceId": "-3",
+      "nameEs": "Ciboure ",
+      "nameEu": "Ziburu "
+    },
+    {
+      "municipalityId": "329",
+      "provinceId": "31",
+      "nameEs": "Cintruénigo",
+      "nameEu": "Cintruénigo"
+    },
+    {
+      "municipalityId": "81",
+      "provinceId": "20",
+      "nameEs": "Deba",
+      "nameEu": "Deba"
+    },
+    {
+      "municipalityId": "169",
+      "provinceId": "48",
+      "nameEs": "Derio",
+      "nameEu": "Derio"
+    },
+    {
+      "municipalityId": "170",
+      "provinceId": "48",
+      "nameEs": "Dima",
+      "nameEu": "Dima"
+    },
+    {
+      "municipalityId": "337",
+      "provinceId": "31",
+      "nameEs": "Donamaria",
+      "nameEu": "Donamaria"
+    },
+    {
+      "municipalityId": "338",
+      "provinceId": "31",
+      "nameEs": "Doneztebe/Santesteban",
+      "nameEu": "Doneztebe/Santesteban"
+    },
+    {
+      "municipalityId": "82",
+      "provinceId": "20",
+      "nameEs": "Donostia-San Sebastián",
+      "nameEu": "Donostia-San Sebastián"
+    },
+    {
+      "municipalityId": "171",
+      "provinceId": "48",
+      "nameEs": "Durango",
+      "nameEu": "Durango"
+    },
+    {
+      "municipalityId": "172",
+      "provinceId": "48",
+      "nameEs": "Ea",
+      "nameEu": "Ea"
+    },
+    {
+      "municipalityId": "340",
+      "provinceId": "31",
+      "nameEs": "Egüés",
+      "nameEu": "Egüés"
+    },
+    {
+      "municipalityId": "83",
+      "provinceId": "20",
+      "nameEs": "Eibar",
+      "nameEu": "Eibar"
+    },
+    {
+      "municipalityId": "16",
+      "provinceId": "1",
+      "nameEs": "Elburgo",
+      "nameEu": "Burgelu"
+    },
+    {
+      "municipalityId": "17",
+      "provinceId": "1",
+      "nameEs": "Elciego",
+      "nameEu": "Elciego"
+    },
+    {
+      "municipalityId": "86",
+      "provinceId": "20",
+      "nameEs": "Elgoibar",
+      "nameEu": "Elgoibar"
+    },
+    {
+      "municipalityId": "342",
+      "provinceId": "31",
+      "nameEs": "Elgorriaga",
+      "nameEu": "Elgorriaga"
+    },
+    {
+      "municipalityId": "174",
+      "provinceId": "48",
+      "nameEs": "Elorrio",
+      "nameEu": "Elorrio"
+    },
+    {
+      "municipalityId": "18",
+      "provinceId": "1",
+      "nameEs": "Elvillar",
+      "nameEu": "Bilar"
+    },
+    {
+      "municipalityId": "175",
+      "provinceId": "48",
+      "nameEs": "Erandio",
+      "nameEu": "Erandio"
+    },
+    {
+      "municipalityId": "177",
+      "provinceId": "48",
+      "nameEs": "Ermua",
+      "nameEu": "Ermua"
+    },
+    {
+      "municipalityId": "87",
+      "provinceId": "20",
+      "nameEs": "Errenteria",
+      "nameEu": "Errenteria"
+    },
+    {
+      "municipalityId": "88",
+      "provinceId": "20",
+      "nameEs": "Errezil",
+      "nameEu": "Errezil"
+    },
+    {
+      "municipalityId": "89",
+      "provinceId": "20",
+      "nameEs": "Eskoriatza",
+      "nameEu": "Eskoriatza"
+    },
+    {
+      "municipalityId": "604",
+      "provinceId": "-3",
+      "nameEs": "Espelette ",
+      "nameEu": "Ezpeleta "
+    },
+    {
+      "municipalityId": "350",
+      "provinceId": "31",
+      "nameEs": "Estella-Lizarra",
+      "nameEu": "Estella-Lizarra"
+    },
+    {
+      "municipalityId": "354",
+      "provinceId": "31",
+      "nameEs": "Etxarri-Aranatz",
+      "nameEu": "Etxarri-Aranatz"
+    },
+    {
+      "municipalityId": "179",
+      "provinceId": "48",
+      "nameEs": "Etxebarri",
+      "nameEu": "Etxebarri"
+    },
+    {
+      "municipalityId": "180",
+      "provinceId": "48",
+      "nameEs": "Etxebarria",
+      "nameEu": "Etxebarria"
+    },
+    {
+      "municipalityId": "358",
+      "provinceId": "31",
+      "nameEs": "Ezcároz/Ezkaroze",
+      "nameEu": "Ezcároz/Ezkaroze"
+    },
+    {
+      "municipalityId": "90",
+      "provinceId": "20",
+      "nameEs": "Ezkio-Itsaso",
+      "nameEu": "Ezkio-Itsaso"
+    },
+    {
+      "municipalityId": "361",
+      "provinceId": "31",
+      "nameEs": "Falces",
+      "nameEu": "Falces"
+    },
+    {
+      "municipalityId": "181",
+      "provinceId": "48",
+      "nameEs": "Forua",
+      "nameEu": "Forua"
+    },
+    {
+      "municipalityId": "606",
+      "provinceId": "-3",
+      "nameEs": "Gabat ",
+      "nameEu": "Gabadi "
+    },
+    {
+      "municipalityId": "91",
+      "provinceId": "20",
+      "nameEs": "Gabiria",
+      "nameEu": "Gabiria"
+    },
+    {
+      "municipalityId": "92",
+      "provinceId": "20",
+      "nameEs": "Gaintza",
+      "nameEu": "Gaintza"
+    },
+    {
+      "municipalityId": "183",
+      "provinceId": "48",
+      "nameEs": "Galdakao",
+      "nameEu": "Galdakao"
+    },
+    {
+      "municipalityId": "187",
+      "provinceId": "48",
+      "nameEs": "Gatika",
+      "nameEu": "Gatika"
+    },
+    {
+      "municipalityId": "188",
+      "provinceId": "48",
+      "nameEs": "Gautegiz Arteaga",
+      "nameEu": "Gautegiz Arteaga"
+    },
+    {
+      "municipalityId": "93",
+      "provinceId": "20",
+      "nameEs": "Gaztelu",
+      "nameEu": "Gaztelu"
+    },
+    {
+      "municipalityId": "189",
+      "provinceId": "48",
+      "nameEs": "Gernika-Lumo",
+      "nameEu": "Gernika-Lumo"
+    },
+    {
+      "municipalityId": "94",
+      "provinceId": "20",
+      "nameEs": "Getaria",
+      "nameEu": "Getaria"
+    },
+    {
+      "municipalityId": "190",
+      "provinceId": "48",
+      "nameEs": "Getxo",
+      "nameEu": "Getxo"
+    },
+    {
+      "municipalityId": "374",
+      "provinceId": "31",
+      "nameEs": "Goizueta",
+      "nameEu": "Goizueta"
+    },
+    {
+      "municipalityId": "193",
+      "provinceId": "48",
+      "nameEs": "Gorliz",
+      "nameEu": "Gorliz"
+    },
+    {
+      "municipalityId": "611",
+      "provinceId": "-3",
+      "nameEs": "Guéthary ",
+      "nameEu": "Getaria "
+    },
+    {
+      "municipalityId": "194",
+      "provinceId": "48",
+      "nameEs": "Güeñes",
+      "nameEu": "Güeñes"
+    },
+    {
+      "municipalityId": "616",
+      "provinceId": "-3",
+      "nameEs": "Hasparren ",
+      "nameEu": "Hazparne "
+    },
+    {
+      "municipalityId": "618",
+      "provinceId": "-3",
+      "nameEs": "Hendaye ",
+      "nameEu": "Hendaia "
+    },
+    {
+      "municipalityId": "95",
+      "provinceId": "20",
+      "nameEs": "Hernani",
+      "nameEu": "Hernani"
+    },
+    {
+      "municipalityId": "97",
+      "provinceId": "20",
+      "nameEs": "Hondarribia",
+      "nameEu": "Hondarribia"
+    },
+    {
+      "municipalityId": "380",
+      "provinceId": "31",
+      "nameEs": "Huarte/Uharte",
+      "nameEu": "Huarte/Uharte"
+    },
+    {
+      "municipalityId": "98",
+      "provinceId": "20",
+      "nameEs": "Ibarra",
+      "nameEu": "Ibarra"
+    },
+    {
+      "municipalityId": "382",
+      "provinceId": "31",
+      "nameEs": "Igantzi",
+      "nameEu": "Igantzi"
+    },
+    {
+      "municipalityId": "196",
+      "provinceId": "48",
+      "nameEs": "Igorre",
+      "nameEu": "Igorre"
+    },
+    {
+      "municipalityId": "384",
+      "provinceId": "31",
+      "nameEs": "Imotz",
+      "nameEu": "Imotz"
+    },
+    {
+      "municipalityId": "624",
+      "provinceId": "-3",
+      "nameEs": "Irissarry ",
+      "nameEu": "Irisarri "
+    },
+    {
+      "municipalityId": "101",
+      "provinceId": "20",
+      "nameEs": "Irun",
+      "nameEu": "Irun"
+    },
+    {
+      "municipalityId": "102",
+      "provinceId": "20",
+      "nameEs": "Irura",
+      "nameEu": "Irura"
+    },
+    {
+      "municipalityId": "386",
+      "provinceId": "31",
+      "nameEs": "Irurtzun",
+      "nameEu": "Irurtzun"
+    },
+    {
+      "municipalityId": "20",
+      "provinceId": "1",
+      "nameEs": "Iruña de Oca",
+      "nameEu": "Iruña Oka"
+    },
+    {
+      "municipalityId": "387",
+      "provinceId": "31",
+      "nameEs": "Isaba/Izaba",
+      "nameEu": "Isaba/Izaba"
+    },
+    {
+      "municipalityId": "197",
+      "provinceId": "48",
+      "nameEs": "Ispaster",
+      "nameEu": "Ispaster"
+    },
+    {
+      "municipalityId": "628",
+      "provinceId": "-3",
+      "nameEs": "Ispoure ",
+      "nameEu": "Izpura "
+    },
+    {
+      "municipalityId": "388",
+      "provinceId": "31",
+      "nameEs": "Ituren",
+      "nameEu": "Ituren"
+    },
+    {
+      "municipalityId": "627",
+      "provinceId": "-3",
+      "nameEs": "Itxassou ",
+      "nameEu": "Itsasu "
+    },
+    {
+      "municipalityId": "198",
+      "provinceId": "48",
+      "nameEs": "Iurreta",
+      "nameEu": "Iurreta"
+    },
+    {
+      "municipalityId": "23",
+      "provinceId": "1",
+      "nameEs": "Kuartango",
+      "nameEu": "Kuartango"
+    },
+    {
+      "municipalityId": "24",
+      "provinceId": "1",
+      "nameEs": "Labastida",
+      "nameEu": "Bastida"
+    },
+    {
+      "municipalityId": "402",
+      "provinceId": "31",
+      "nameEs": "Lakuntza",
+      "nameEu": "Lakuntza"
+    },
+    {
+      "municipalityId": "203",
+      "provinceId": "48",
+      "nameEs": "Larrabetzu",
+      "nameEu": "Larrabetzu"
+    },
+    {
+      "municipalityId": "104",
+      "provinceId": "20",
+      "nameEs": "Larraul",
+      "nameEu": "Larraul"
+    },
+    {
+      "municipalityId": "408",
+      "provinceId": "31",
+      "nameEs": "Larraun",
+      "nameEu": "Larraun"
+    },
+    {
+      "municipalityId": "641",
+      "provinceId": "-3",
+      "nameEs": "Larressore ",
+      "nameEu": "Larresoro "
+    },
+    {
+      "municipalityId": "105",
+      "provinceId": "20",
+      "nameEs": "Lasarte-Oria",
+      "nameEu": "Lasarte-Oria"
+    },
+    {
+      "municipalityId": "204",
+      "provinceId": "48",
+      "nameEs": "Laukiz",
+      "nameEu": "Laukiz"
+    },
+    {
+      "municipalityId": "106",
+      "provinceId": "20",
+      "nameEs": "Lazkao",
+      "nameEu": "Lazkao"
+    },
+    {
+      "municipalityId": "648",
+      "provinceId": "-3",
+      "nameEs": "Lecumberry ",
+      "nameEu": "Lekunberri "
+    },
+    {
+      "municipalityId": "108",
+      "provinceId": "20",
+      "nameEs": "Legazpi",
+      "nameEu": "Legazpi"
+    },
+    {
+      "municipalityId": "109",
+      "provinceId": "20",
+      "nameEs": "Legorreta",
+      "nameEu": "Legorreta"
+    },
+    {
+      "municipalityId": "31",
+      "provinceId": "1",
+      "nameEs": "Legutio",
+      "nameEu": "Legutio"
+    },
+    {
+      "municipalityId": "205",
+      "provinceId": "48",
+      "nameEs": "Leioa",
+      "nameEu": "Leioa"
+    },
+    {
+      "municipalityId": "413",
+      "provinceId": "31",
+      "nameEs": "Leitza",
+      "nameEu": "Leitza"
+    },
+    {
+      "municipalityId": "206",
+      "provinceId": "48",
+      "nameEs": "Lekeitio",
+      "nameEu": "Lekeitio"
+    },
+    {
+      "municipalityId": "207",
+      "provinceId": "48",
+      "nameEs": "Lemoa",
+      "nameEu": "Lemoa"
+    },
+    {
+      "municipalityId": "208",
+      "provinceId": "48",
+      "nameEs": "Lemoiz",
+      "nameEu": "Lemoiz"
+    },
+    {
+      "municipalityId": "417",
+      "provinceId": "31",
+      "nameEs": "Lerín",
+      "nameEu": "Lerín"
+    },
+    {
+      "municipalityId": "418",
+      "provinceId": "31",
+      "nameEs": "Lesaka",
+      "nameEu": "Lesaka"
+    },
+    {
+      "municipalityId": "209",
+      "provinceId": "48",
+      "nameEs": "Lezama",
+      "nameEu": "Lezama"
+    },
+    {
+      "municipalityId": "111",
+      "provinceId": "20",
+      "nameEs": "Lezo",
+      "nameEu": "Lezo"
+    },
+    {
+      "municipalityId": "650",
+      "provinceId": "-3",
+      "nameEs": "Licq-Athérey ",
+      "nameEu": "Ligi-Atherei "
+    },
+    {
+      "municipalityId": "112",
+      "provinceId": "20",
+      "nameEs": "Lizartza",
+      "nameEu": "Lizartza"
+    },
+    {
+      "municipalityId": "30",
+      "provinceId": "1",
+      "nameEs": "Llodio",
+      "nameEu": "Laudio"
+    },
+    {
+      "municipalityId": "422",
+      "provinceId": "31",
+      "nameEs": "Lodosa",
+      "nameEu": "Lodosa"
+    },
+    {
+      "municipalityId": "210",
+      "provinceId": "48",
+      "nameEs": "Loiu",
+      "nameEu": "Loiu"
+    },
+    {
+      "municipalityId": "424",
+      "provinceId": "31",
+      "nameEs": "Los Arcos",
+      "nameEu": "Los Arcos"
+    },
+    {
+      "municipalityId": "653",
+      "provinceId": "-3",
+      "nameEs": "Louhossoa ",
+      "nameEu": "Luhuso "
+    },
+    {
+      "municipalityId": "655",
+      "provinceId": "-3",
+      "nameEs": "Macaye ",
+      "nameEu": "Makea "
+    },
+    {
+      "municipalityId": "211",
+      "provinceId": "48",
+      "nameEs": "Mallabia",
+      "nameEu": "Mallabia"
+    },
+    {
+      "municipalityId": "213",
+      "provinceId": "48",
+      "nameEs": "Markina-Xemein",
+      "nameEu": "Markina-Xemein"
+    },
+    {
+      "municipalityId": "657",
+      "provinceId": "-3",
+      "nameEs": "Mauléon-Licharre ",
+      "nameEu": "Maule-Lextarre "
+    },
+    {
+      "municipalityId": "212",
+      "provinceId": "48",
+      "nameEs": "Mañaria",
+      "nameEu": "Mañaria"
+    },
+    {
+      "municipalityId": "113",
+      "provinceId": "20",
+      "nameEs": "Mendaro",
+      "nameEu": "Mendaro"
+    },
+    {
+      "municipalityId": "216",
+      "provinceId": "48",
+      "nameEs": "Mendexa",
+      "nameEu": "Mendexa"
+    },
+    {
+      "municipalityId": "440",
+      "provinceId": "31",
+      "nameEs": "Mendigorría",
+      "nameEu": "Mendigorría"
+    },
+    {
+      "municipalityId": "646",
+      "provinceId": "-3",
+      "nameEs": "Mendionde ",
+      "nameEu": "Lekorne "
+    },
+    {
+      "municipalityId": "220",
+      "provinceId": "48",
+      "nameEs": "Mungia",
+      "nameEu": "Mungia"
+    },
+    {
+      "municipalityId": "221",
+      "provinceId": "48",
+      "nameEs": "Munitibar-Arbatzegi Gerrikaitz",
+      "nameEu": "Munitibar-Arbatzegi Gerrikaitz"
+    },
+    {
+      "municipalityId": "665",
+      "provinceId": "-3",
+      "nameEs": "Musculdy ",
+      "nameEu": "Muskildi "
+    },
+    {
+      "municipalityId": "223",
+      "provinceId": "48",
+      "nameEs": "Muskiz",
+      "nameEu": "Muskiz"
+    },
+    {
+      "municipalityId": "114",
+      "provinceId": "20",
+      "nameEs": "Mutiloa",
+      "nameEu": "Mutiloa"
+    },
+    {
+      "municipalityId": "115",
+      "provinceId": "20",
+      "nameEs": "Mutriku",
+      "nameEu": "Mutriku"
+    },
+    {
+      "municipalityId": "456",
+      "provinceId": "31",
+      "nameEs": "Noáin (Valle de Elorz)/ Noain (Elortzibar)",
+      "nameEu": "Noáin (Valle de Elorz)/ Noain (Elortzibar)"
+    },
+    {
+      "municipalityId": "458",
+      "provinceId": "31",
+      "nameEs": "Ochagavía/Otsagabia",
+      "nameEu": "Ochagavía/Otsagabia"
+    },
+    {
+      "municipalityId": "116",
+      "provinceId": "20",
+      "nameEs": "Oiartzun",
+      "nameEu": "Oiartzun"
+    },
+    {
+      "municipalityId": "35",
+      "provinceId": "1",
+      "nameEs": "Okondo",
+      "nameEu": "Okondo"
+    },
+    {
+      "municipalityId": "117",
+      "provinceId": "20",
+      "nameEs": "Olaberria",
+      "nameEu": "Olaberria"
+    },
+    {
+      "municipalityId": "463",
+      "provinceId": "31",
+      "nameEs": "Olazti/Olazagutía",
+      "nameEu": "Olazti/Olazagutía"
+    },
+    {
+      "municipalityId": "226",
+      "provinceId": "48",
+      "nameEs": "Ondarroa",
+      "nameEu": "Ondarroa"
+    },
+    {
+      "municipalityId": "119",
+      "provinceId": "20",
+      "nameEs": "Ordizia",
+      "nameEu": "Ordizia"
+    },
+    {
+      "municipalityId": "242",
+      "provinceId": "48",
+      "nameEs": "Orduña",
+      "nameEu": "Urduña"
+    },
+    {
+      "municipalityId": "122",
+      "provinceId": "20",
+      "nameEs": "Orio",
+      "nameEu": "Orio"
+    },
+    {
+      "municipalityId": "123",
+      "provinceId": "20",
+      "nameEs": "Ormaiztegi",
+      "nameEu": "Ormaiztegi"
+    },
+    {
+      "municipalityId": "227",
+      "provinceId": "48",
+      "nameEs": "Orozko",
+      "nameEu": "Orozko"
+    },
+    {
+      "municipalityId": "228",
+      "provinceId": "48",
+      "nameEs": "Ortuella",
+      "nameEu": "Ortuella"
+    },
+    {
+      "municipalityId": "229",
+      "provinceId": "48",
+      "nameEs": "Otxandio",
+      "nameEu": "Otxandio"
+    },
+    {
+      "municipalityId": "36",
+      "provinceId": "1",
+      "nameEs": "Oyón-Oion",
+      "nameEu": "Oyón-Oion"
+    },
+    {
+      "municipalityId": "118",
+      "provinceId": "20",
+      "nameEs": "Oñati",
+      "nameEu": "Oñati"
+    },
+    {
+      "municipalityId": "476",
+      "provinceId": "31",
+      "nameEs": "Pamplona/Iruña",
+      "nameEu": "Pamplona/Iruña"
+    },
+    {
+      "municipalityId": "124",
+      "provinceId": "20",
+      "nameEs": "Pasaia",
+      "nameEu": "Pasaia"
+    },
+    {
+      "municipalityId": "37",
+      "provinceId": "1",
+      "nameEs": "Peñacerrada-Urizaharra",
+      "nameEu": "Peñacerrada-Urizaharra"
+    },
+    {
+      "municipalityId": "230",
+      "provinceId": "48",
+      "nameEs": "Plentzia",
+      "nameEu": "Plentzia"
+    },
+    {
+      "municipalityId": "231",
+      "provinceId": "48",
+      "nameEs": "Portugalete",
+      "nameEu": "Portugalete"
+    },
+    {
+      "municipalityId": "483",
+      "provinceId": "31",
+      "nameEs": "Ribaforada",
+      "nameEu": "Ribaforada"
+    },
+    {
+      "municipalityId": "38",
+      "provinceId": "1",
+      "nameEs": "Ribera Alta",
+      "nameEu": "Erriberagoitia"
+    },
+    {
+      "municipalityId": "39",
+      "provinceId": "1",
+      "nameEs": "Ribera Baja",
+      "nameEu": "Erribera Beitia"
+    },
+    {
+      "municipalityId": "567",
+      "provinceId": "-3",
+      "nameEs": "Saint-Etienne-de-Baïgorry ",
+      "nameEu": "Baigorri "
+    },
+    {
+      "municipalityId": "594",
+      "provinceId": "-3",
+      "nameEs": "Saint-Jean-Pied-de-Port ",
+      "nameEu": "Donibane Garazi "
+    },
+    {
+      "municipalityId": "595",
+      "provinceId": "-3",
+      "nameEs": "Saint-Jean-de-Luz ",
+      "nameEu": "Donibane Lohizune "
+    },
+    {
+      "municipalityId": "592",
+      "provinceId": "-3",
+      "nameEs": "Saint-Palais ",
+      "nameEu": "Donapaleu "
+    },
+    {
+      "municipalityId": "693",
+      "provinceId": "-3",
+      "nameEs": "Saint-Pierre-d\\Irube",
+      "nameEu": "Hiriburu"
+    },
+    {
+      "municipalityId": "675",
+      "provinceId": "-3",
+      "nameEs": "Saint-Pée-sur-Nivelle ",
+      "nameEu": "Senpere "
+    },
+    {
+      "municipalityId": "40",
+      "provinceId": "1",
+      "nameEs": "Salvatierra",
+      "nameEu": "Agurain"
+    },
+    {
+      "municipalityId": "489",
+      "provinceId": "31",
+      "nameEs": "San Adrián",
+      "nameEu": "San Adrián"
+    },
+    {
+      "municipalityId": "42",
+      "provinceId": "1",
+      "nameEs": "San Millán",
+      "nameEu": "Donemiliaga"
+    },
+    {
+      "municipalityId": "491",
+      "provinceId": "31",
+      "nameEs": "Sangüesa/Zangoza",
+      "nameEu": "Sangüesa/Zangoza"
+    },
+    {
+      "municipalityId": "232",
+      "provinceId": "48",
+      "nameEs": "Santurtzi",
+      "nameEu": "Santurtzi"
+    },
+    {
+      "municipalityId": "673",
+      "provinceId": "-3",
+      "nameEs": "Sare ",
+      "nameEu": "Sara "
+    },
+    {
+      "municipalityId": "125",
+      "provinceId": "20",
+      "nameEs": "Segura",
+      "nameEu": "Segura"
+    },
+    {
+      "municipalityId": "233",
+      "provinceId": "48",
+      "nameEs": "Sestao",
+      "nameEu": "Sestao"
+    },
+    {
+      "municipalityId": "234",
+      "provinceId": "48",
+      "nameEs": "Sondika",
+      "nameEu": "Sondika"
+    },
+    {
+      "municipalityId": "235",
+      "provinceId": "48",
+      "nameEs": "Sopela",
+      "nameEu": "Sopela"
+    },
+    {
+      "municipalityId": "236",
+      "provinceId": "48",
+      "nameEs": "Sopuerta",
+      "nameEu": "Sopuerta"
+    },
+    {
+      "municipalityId": "126",
+      "provinceId": "20",
+      "nameEs": "Soraluze-Placencia de las Armas",
+      "nameEu": "Soraluze-Placencia de las Armas"
+    },
+    {
+      "municipalityId": "498",
+      "provinceId": "31",
+      "nameEs": "Sunbilla",
+      "nameEu": "Sunbilla"
+    },
+    {
+      "municipalityId": "499",
+      "provinceId": "31",
+      "nameEs": "Tafalla",
+      "nameEu": "Tafalla"
+    },
+    {
+      "municipalityId": "127",
+      "provinceId": "20",
+      "nameEs": "Tolosa",
+      "nameEu": "Tolosa"
+    },
+    {
+      "municipalityId": "504",
+      "provinceId": "31",
+      "nameEs": "Tudela",
+      "nameEu": "Tudela"
+    },
+    {
+      "municipalityId": "240",
+      "provinceId": "48",
+      "nameEs": "Ugao-Miraballes",
+      "nameEu": "Ugao-Miraballes"
+    },
+    {
+      "municipalityId": "241",
+      "provinceId": "48",
+      "nameEs": "Urduliz",
+      "nameEu": "Urduliz"
+    },
+    {
+      "municipalityId": "43",
+      "provinceId": "1",
+      "nameEs": "Urkabustaiz",
+      "nameEu": "Urkabustaiz"
+    },
+    {
+      "municipalityId": "128",
+      "provinceId": "20",
+      "nameEs": "Urnieta",
+      "nameEu": "Urnieta"
+    },
+    {
+      "municipalityId": "129",
+      "provinceId": "20",
+      "nameEs": "Urretxu",
+      "nameEu": "Urretxu"
+    },
+    {
+      "municipalityId": "683",
+      "provinceId": "-3",
+      "nameEs": "Urrugne ",
+      "nameEu": "Urruña "
+    },
+    {
+      "municipalityId": "685",
+      "provinceId": "-3",
+      "nameEs": "Ustaritz ",
+      "nameEu": "Uztaritze "
+    },
+    {
+      "municipalityId": "130",
+      "provinceId": "20",
+      "nameEs": "Usurbil",
+      "nameEu": "Usurbil"
+    },
+    {
+      "municipalityId": "44",
+      "provinceId": "1",
+      "nameEs": "Valdegovía",
+      "nameEu": "Gaubea"
+    },
+    {
+      "municipalityId": "200",
+      "provinceId": "48",
+      "nameEs": "Valle de Carranza",
+      "nameEu": "Karrantza Harana"
+    },
+    {
+      "municipalityId": "243",
+      "provinceId": "48",
+      "nameEs": "Valle de Trápaga-Trapagaran",
+      "nameEu": "Valle de Trápaga-Trapagaran"
+    },
+    {
+      "municipalityId": "522",
+      "provinceId": "31",
+      "nameEs": "Valtierra",
+      "nameEu": "Valtierra"
+    },
+    {
+      "municipalityId": "131",
+      "provinceId": "20",
+      "nameEs": "Villabona",
+      "nameEu": "Villabona"
+    },
+    {
+      "municipalityId": "525",
+      "provinceId": "31",
+      "nameEs": "Villafranca",
+      "nameEu": "Villafranca"
+    },
+    {
+      "municipalityId": "528",
+      "provinceId": "31",
+      "nameEs": "Villava/Atarrabia",
+      "nameEu": "Villava/Atarrabia"
+    },
+    {
+      "municipalityId": "46",
+      "provinceId": "1",
+      "nameEs": "Vitoria-Gasteiz",
+      "nameEu": "Vitoria-Gasteiz"
+    },
+    {
+      "municipalityId": "529",
+      "provinceId": "31",
+      "nameEs": "Yesa",
+      "nameEu": "Yesa"
+    },
+    {
+      "municipalityId": "244",
+      "provinceId": "48",
+      "nameEs": "Zaldibar",
+      "nameEu": "Zaldibar"
+    },
+    {
+      "municipalityId": "132",
+      "provinceId": "20",
+      "nameEs": "Zaldibia",
+      "nameEu": "Zaldibia"
+    },
+    {
+      "municipalityId": "48",
+      "provinceId": "1",
+      "nameEs": "Zalduondo",
+      "nameEu": "Zalduondo"
+    },
+    {
+      "municipalityId": "245",
+      "provinceId": "48",
+      "nameEs": "Zalla",
+      "nameEu": "Zalla"
+    },
+    {
+      "municipalityId": "246",
+      "provinceId": "48",
+      "nameEs": "Zamudio",
+      "nameEu": "Zamudio"
+    },
+    {
+      "municipalityId": "133",
+      "provinceId": "20",
+      "nameEs": "Zarautz",
+      "nameEu": "Zarautz"
+    },
+    {
+      "municipalityId": "248",
+      "provinceId": "48",
+      "nameEs": "Zeanuri",
+      "nameEu": "Zeanuri"
+    },
+    {
+      "municipalityId": "249",
+      "provinceId": "48",
+      "nameEs": "Zeberio",
+      "nameEu": "Zeberio"
+    },
+    {
+      "municipalityId": "135",
+      "provinceId": "20",
+      "nameEs": "Zerain",
+      "nameEu": "Zerain"
+    },
+    {
+      "municipalityId": "136",
+      "provinceId": "20",
+      "nameEs": "Zestoa",
+      "nameEu": "Zestoa"
+    },
+    {
+      "municipalityId": "250",
+      "provinceId": "48",
+      "nameEs": "Zierbena",
+      "nameEu": "Zierbena"
+    },
+    {
+      "municipalityId": "50",
+      "provinceId": "1",
+      "nameEs": "Zigoitia",
+      "nameEu": "Zigoitia"
+    },
+    {
+      "municipalityId": "251",
+      "provinceId": "48",
+      "nameEs": "Ziortza-Bolibar",
+      "nameEu": "Ziortza-Bolibar"
+    },
+    {
+      "municipalityId": "532",
+      "provinceId": "31",
+      "nameEs": "Zizur Mayor/Zizur Nagusia",
+      "nameEu": "Zizur Mayor/Zizur Nagusia"
+    },
+    {
+      "municipalityId": "137",
+      "provinceId": "20",
+      "nameEs": "Zizurkil",
+      "nameEu": "Zizurkil"
+    },
+    {
+      "municipalityId": "51",
+      "provinceId": "1",
+      "nameEs": "Zuia",
+      "nameEu": "Zuia"
+    },
+    {
+      "municipalityId": "138",
+      "provinceId": "20",
+      "nameEs": "Zumaia",
+      "nameEu": "Zumaia"
+    },
+    {
+      "municipalityId": "139",
+      "provinceId": "20",
+      "nameEs": "Zumarraga",
+      "nameEu": "Zumarraga"
+    }
+  ]
+}
