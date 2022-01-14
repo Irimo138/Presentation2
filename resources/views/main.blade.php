@@ -1,4 +1,7 @@
 @extends('layouts.estylesAndJs')
+<head>
+<link href="{{asset('/css/estilo.css')}}" rel="stylesheet" />
+</head>
 <body id="page-top">
 
 
